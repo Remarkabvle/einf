@@ -1,0 +1,2 @@
+.navbar{display:flex;justify-content:space-between;align-items:center;padding:10px 20px}.navbar .navbar__link{color:#000;text-decoration:none;margin-right:20px}.navbar .navbar__link.active{font-weight:bold;color:red}.navbar .navbar__logo{margin:0}.container{width:80%;margin:20px auto;padding:20px}.navbar__left{display:flex;gap:60px}.navbar__right{display:flex;gap:50px;align-items:center}input{padding:5px 10px;background:#edf2f4;border:none;border-radius:10px}
+/*# sourceMappingURL=header.min.css.map */

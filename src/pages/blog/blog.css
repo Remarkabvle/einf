@@ -1,0 +1,31 @@
+.blog__card__text {
+  max-width: 767px;
+}
+
+.blog__cards {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.blog__card {
+  display: flex;
+  justify-content: space-around;
+  padding: 40px;
+  border-radius: 7px;
+  background: #EDF2F4;
+}
+
+.blog__card__text {
+  margin-top: 30px;
+}
+
+.n {
+  display: flex;
+  flex-direction: column;
+}
+
+.n__text {
+  max-width: 1103px;
+}
+/*# sourceMappingURL=blog.css.map */
